@@ -2,7 +2,7 @@
 <html>
 <head><title>S1len7E</title>
 <link rel ="stylesheet" href="S1lence.css">
-
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset ="UTF-8"></head>
 <meta lang="ru">
 <body>
