@@ -2,29 +2,34 @@
 <html>
 <head><title>S1len7E</title>
 <link rel ="stylesheet" href="S1lence.css">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <meta charset ="UTF-8"></head>
 <meta lang="ru">
 <body>
-     <img src="Silencenomber1.jpg" class = "img1">
-     <div class="conter">
-       <h1 class = "Favorite">Биография S1len7E</h1>
-       <div class = "info1">
-       <h1>Йоу! Сейчас ты находищься на моём сайте и исследуя его ты узнаешь</h1>
-       <h1>Примерно 80% инфы обо мне которую не знают даже мои лучшие друзья</h1>
-       <h1>Ладно исследуй сайт, а у меня важные дела. Пока!</h1>
+  <div class="center1">
+  <header>
+    <img src="Silencenomber1.jpg" class = "img1">
+    <a href="SilenceN1.html" class = "left1"> <h1>Соц. сети</h1></a>
+    <a href="Play.html" class = "left2"> <h1>Игры</h1></a>
+    <a href="RealLife.html" class = "left3"> <h1>Real life</h1></a>
+  </header>
 
-       <div class = "leftG">
+    <div class="gpb">
+        <h1 class="">Привет! Меня зовут Silence и разраб этого сайта.
+           Исследуя этот, сайт ты узнаешь:</h1>
+        <h1>80% инфы, о которой не знает никто!</h1>
+        <h1>Где я родился какие игры я люблю и т.д</h1>
+        <h1>В общем, исследуй мой сайт, а я пошёл на....
+           разработку дизайна для моего сайта! Удачи!</h1>
+    </div>
 
-        <a href="SilenceN1.html" class = "left1"> <h1>Соц. сети</h1></a>
-        <a href="Play.html" class = "left2"> <h1>Игры</h1></a>
-        <a href="RealLife.html" class = "left3"> <h1>Real life</h1></a>
-        </div>
-        <h5 class="Thanks1">@""Автор сайта Silence. Создание сайта 30.01.24
-         Автор надеется, что вам всё понравилось и вы удовлетворены визитом на
-       наш сайт.Спасибо за посещение!!!@""</h5>
+     <div class="Thanks1">
+        <h1>@""Автор сайта Silence. Создание сайта 30.01.24<h1>
+        <h1> Автор надеется, что вам всё понравилось и вы удовлетворены визитом на
+       наш сайт.Спасибо за посещение!!!@""</h1>
+     </div>
+</div>
 
-https://ivsilence2011.github.io/S1Len7E/SilenceN1.html
 
 
 
@@ -32,3 +37,4 @@ https://ivsilence2011.github.io/S1Len7E/SilenceN1.html
 
 
 </html>
+
