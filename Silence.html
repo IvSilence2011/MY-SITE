@@ -6,7 +6,7 @@
 <meta charset ="UTF-8"></head>
 <meta lang="ru">
 <body>
-     <img src="C:\Users\tikho\Desktop\Новая папка\Silencenomber1.jpg" class = "img1">
+     <img src="Silencenomber1.jpg" class = "img1">
      <div class="conter">
        <h1 class = "Favorite">Биография S1len7E</h1>
        <div class = "info1">
